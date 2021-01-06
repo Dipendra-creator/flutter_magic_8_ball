@@ -1,4 +1,4 @@
-# flutter_magic_8_ball
+# MAGIC 8 Ball
 
 A new Flutter application.
 
